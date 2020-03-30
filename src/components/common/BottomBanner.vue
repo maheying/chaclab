@@ -1,6 +1,6 @@
 <template>
   <div class="bottom-banner">
-    <a target="_blank" href="http://www.beian.miit.gov.cn">@2020 CHOCLAB 浙ICP备12034599号-6</a>
+    <a target="_blank" href="http://www.beian.miit.gov.cn">©2020 CHOCLAB 浙ICP备12034599号-6</a>
   </div>
 </template>
 
